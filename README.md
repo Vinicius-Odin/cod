@@ -1,2 +1,2 @@
-# cod
- Cod apuração das eleiçoes 2022
+# codigo
+ Codigo para apuração das eleiçoes 2022
